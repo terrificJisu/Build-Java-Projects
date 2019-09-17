@@ -9,7 +9,10 @@ So, the Java projects that I work on help me to grasp OOP concepts, apply OOP in
 practice developing their applications by band, and debug their code and overcome challenges.
 
 ```
+Projects:
+
 1. An email administration application
 2. A student database application
 3. A new bank account application
+
 ```
