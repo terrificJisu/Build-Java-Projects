@@ -13,6 +13,6 @@ Projects:
 
 1. An email administration application (DONE)
 2. A student database application (DONE)
-3. A new bank account application
+3. A new bank account application (DONE)
 
 ```
